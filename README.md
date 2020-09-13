@@ -1,22 +1,56 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-<h1 align="center">Hi 👋, I'm Minhaz</h1>
-<h3 align="center">A passionate Software developer(web) from Bangladesh</h3>
+[![Header](https://raw.githubusercontent.com/minhaz11/minhaz11/master/readme_header.png "Header")](https://mi-minhaz.com/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaz11" alt="minhaz11" /> </p>
+# Hello, folks! <img src="https://raw.githubusercontent.com/minhaz11/minhaz11/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working in [The Softking](thesoftking.com)
+My name is Minhaz and I'm a software developer/engineer. I'm from Bangladesh, living in Dhaka and currently working at TheSoftking.
 
-- 🌱 I’m currently learning **Vue js**
+## &#x270d; Blog & Writing
 
-- 📫 How to reach me **minhaz217@gmail.com**
+Apart from coding, I also maintain a blog - you can find my articles on my website at [mi-minhaz.com](https://mi-minhaz.com/).
 
-- ⚡ Fun fact **Sometimes fell asleep in work**
+## 🔧 Technologies & Tools
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=minhaz11&theme=dark" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/minhaz11/minhaz11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz11&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/minhaz11/minhaz11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz11&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Minhaz's GitHub Stats" />
+</a>
 
 
-<p align="center">
-<a href="https://fb.com/mi.minhaz.0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mi.minhaz.0" height="30" width="30" /></a>
-</p>
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+
+[2]: https://github.com/minhaz11
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
