@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAECEu74BNA/xMIe8RJWKPSXNPbkVzBo0A/edit?category=tACZCma41b0&layoutQuery=banner"/>
+<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate Software developer(web) from Bangladesh</h3>
 
