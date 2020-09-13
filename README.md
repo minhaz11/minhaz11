@@ -31,7 +31,7 @@ I am a developer who is passionate about web software developing. Few tech that 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=minhaz11&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz11&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
@@ -41,59 +41,4 @@ I am a developer who is passionate about web software developing. Few tech that 
 
 ---
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-🌆 Daytime    199 commits    ████████░░░░░░░░░░░░░░░░░   32.68% 
-🌃 Evening    222 commits    █████████░░░░░░░░░░░░░░░░   36.45% 
-🌙 Night      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-Tuesday      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Wednesday    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Thursday     95 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Saturday     108 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Sunday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   31 mins             ██████████████░░░░░░░░░░░   58.65% 
-YAML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33% 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         11 repos            █████████████████░░░░░░░░   68.75% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-JavaScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
