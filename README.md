@@ -16,7 +16,7 @@ I am a developer who is passionate about web software developing. Few tech that 
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mi-minhaz.com/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mi.minhaz.0) 
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/minhaz11)
+[![Visits Badge](https://badges.pufler.dev/visits/minhaz11/minhaz11?style=for-the-badge)](https://github.com/minhaz11/minhaz11)
 
 </p>
 
