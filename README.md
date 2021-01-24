@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/minhaz11/minhaz11/master/readme_header.jpg "Header")](https://mi-minhaz.com/)
 ## Hi 👋 I am Minhaz! 
 
-I am a developer who is passionate about web software developing. Few tech that I enjoy working in are PHP, Javascript. I am actively looking for opportunities in software engineering industry. Recently, I have just started with a job in IT firm named The Softking!
+I am a developer who is passionate about web software developing. Few tech that I enjoy working in are PHP, Javascript. I am actively looking for opportunities in software engineering industry. Recently, I have just started with a job in IT firm
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in PHP, Javascript coding, data structures and algorithms.
 - 🤝 Open for collaborations in php community.
