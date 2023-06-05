@@ -6,14 +6,14 @@ I am a developer who is passionate about web software developing. Few tech that 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in PHP, Javascript coding, data structures and algorithms.
 - 🤝 Open for collaborations in programming community.
 - 😊 Willing to contribute in opensource development projects.
-- 🌐 Visit my [linkedin](linkedin.com/in/engr-minhaz) for complete background and contact.
+- 🌐 Visit my [linkedin](https://linkedin.com/in/engr-minhaz) for complete background and contact.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](linkedin.com/in/engr-minhaz)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://linkedin.com/in/engr-minhaz)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mi.minhaz.0) 
 [![Visits Badge](https://badges.pufler.dev/visits/minhaz11/minhaz11?style=for-the-badge)](https://github.com/minhaz11/minhaz11)
 
